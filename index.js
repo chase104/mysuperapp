@@ -20,4 +20,14 @@ myForm.addEventListener('submit', () => {
 })
 
 
+let myFooter = document.querySelector("#form");
+
+
+myFooter.addEventListener('submit', () => {
+    console.log(("sumitting"));
+
+})
+
+
 console.log("SIDEBAR STUFF!");
+
