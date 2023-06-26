@@ -18,3 +18,6 @@ myForm.addEventListener('submit', () => {
     console.log(("sumitting"));
 
 })
+
+
+console.log("SIDEBAR STUFF!");
