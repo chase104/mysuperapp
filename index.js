@@ -18,3 +18,11 @@ myForm.addEventListener('submit', () => {
     console.log(("sumitting"));
 
 })
+
+let myFooter = document.querySelector("#form");
+
+
+myFooter.addEventListener('submit', () => {
+    console.log(("sumitting"));
+
+})
